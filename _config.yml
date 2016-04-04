@@ -1,8 +1,7 @@
+name: abriefescape
+favicon: null
 layout_spectrum: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.08861437
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: abriefescape
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2153820374514908
-  brandStrength: 0.7891375329345465
-  rhythmicContrast: 0.5224495455622673
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.7891375329345465
   lightness: 0.9471492145676166
-typography_spectrum: 0.08861437
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: abriefescape
+  saturation: 0.2153820374514908
+  rhythmicContrast: 0.5224495455622673
+purpose: []
