@@ -1,7 +1,7 @@
 name: abriefescape
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.08861437
+typography_spectrum: 0.1157
 collections:
   - index:
       path: /
