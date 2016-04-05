@@ -1,5 +1,8 @@
+name: abriefescape
+favicon: null
+layout_spectrum: 0.64001
+typography_spectrum: 0.1157
 title: abriefescape
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.25
-  lightness: 0.2024704
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.5625
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: abriefescape
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1157
-layout_spectrum: 1
+purpose: []
